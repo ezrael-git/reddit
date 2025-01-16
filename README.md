@@ -11,7 +11,7 @@ pip install requests
 ```
 
 ## Examples
-```
+```py
 from reddit import Reddit
 reddit = Reddit()
 
